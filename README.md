@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noeldj&label=Profile%20views&color=0e75b6&style=flat" alt="noeldj" /> </p>
 
-- 🔭 I’m currently working on [SvgColor](svgcolor.com)
+- 🔭 I’m currently working on [SvgColor](https://svgcolor.com)
 
 - 🌱 I’m currently learning **Python Tensorflow**
 
-- 👯 I’m looking to collaborate on [DeskTools](desktools.tk)
+- 👯 I’m looking to collaborate on [DeskTools](https://desktools.tk)
 
-- 👨‍💻 All of my projects are available at [noeldesigner.com](noeldesigner.com)
+- 👨‍💻 All of my projects are available at [noeldesigner.com](https://noeldesigner.com)
 
 - 📫 How to reach me **noel.klp@gmail.com**
 
