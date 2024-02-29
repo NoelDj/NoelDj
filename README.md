@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NoelDj</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web Developer and Multimedia Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noeldj&label=Profile%20views&color=0e75b6&style=flat" alt="noeldj" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [noeldesigner.com]([https://noeldesigner.com](https://noeldj.github.io/noeldesigner/))
 
-- 📫 How to reach me **noel.klp@gmail.com**
+- 📫 How to reach me **noel.klp(at)hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
