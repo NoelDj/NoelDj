@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Python Tensorflow**
 
-- 👯 I’m looking to collaborate on [DeskTools](https://desktools.tk)
+- 👨‍💻 All of my projects are available at [[noeldesigner.com](https://noeldj.github.io/noeldesigner/)]([https://noeldj.github.io/noeldesigner/]))
 
-- 👨‍💻 All of my projects are available at [noeldesigner.com]([https://noeldesigner.com](https://noeldj.github.io/noeldesigner/))
-
-- 📫 How to reach me **noel.klp(at)hotmail.com**
+- 📫 How to reach me **noel.klp(at)gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
