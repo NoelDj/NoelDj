@@ -1,5 +1,5 @@
 <h1 align="center">Hello I am Noel</h1>
-<h2 align="center">Web Developer and Multimedia Designer</h2>
+<h2 align="center">Full Stack Developer and Multimedia Designer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noeldj&label=Profile%20views&color=0e75b6&style=flat" alt="noeldj" /> </p>
 
