@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python Tensorflow**
 
-- 👨‍💻 All of my projects are available at [[noeldesigner.com](https://noeldj.github.io/noeldesigner/)]
+- 👨‍💻 All of my projects are available at [[noeldesigner.com]https://noeldj.github.io/noels-portfolio/]
 
 - 📫 How to reach me **noel.klp(at)gmail.com**
 
