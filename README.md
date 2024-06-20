@@ -1,4 +1,4 @@
-<h1 align="center">Hello I am Noel</h1>
+<h1 align="center">NoelDj100</h1>
 <h2 align="center">Web Dev and Designer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noeldj&label=Profile%20views&color=0e75b6&style=flat" alt="noeldj" /> </p>
