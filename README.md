@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noeldj&label=Profile%20views&color=0e75b6&style=flat" alt="noeldj" /> </p>
 
-- 🔭 I’m currently working on [SvgColor](https://svgcolor.com), [Online Note Taking App](https://memotely.com/) , [FaviconGenerator](https://the-favicon-generator.netlify.app/)
+- 🔭 I’m currently working on [SvgColor](https://svgcolor.com), [Online Note Taking App](https://memotely.com/) & [FaviconGenerator](https://the-favicon-generator.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [my web portfolio](https://noeldj.github.io/noels-portfolio/)
 
