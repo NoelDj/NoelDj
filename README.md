@@ -1,5 +1,5 @@
 <h1 align="center">NoelDj100</h1>
-<h2 align="center">Hell, I am a dev.</h2>
+<h2 align="center">Hello, I am a dev</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noeldj&label=Profile%20views&color=0e75b6&style=flat" alt="noeldj" /> </p>
 
